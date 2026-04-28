@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+
+result/
+output/
+tmp/
+
+.pytest_cache/
+.mypy_cache/
